@@ -1,0 +1,1 @@
+Database.executeBatch(new LeadProcessor(), 100);
